@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16b3d13a-9cfd-421b-8134-6f0bb8e2635b": {
+      "ProjectGuid": "16b3d13a-9cfd-421b-8134-6f0bb8e2635b",
+      "DisplayName": "WindowFrame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
